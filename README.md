@@ -1,1 +1,1 @@
-This game is built with Microsoft Visual Studio 2008 and C++ language.
+GLUT Library files, Microsoft Visual Studio 2008 and Codeblocks have been used to built and run this game.
